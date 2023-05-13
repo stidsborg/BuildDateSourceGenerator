@@ -5,6 +5,7 @@
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <Deterministic>false</Deterministic>
   </PropertyGroup>
   <ItemGroup>
     <ProjectReference Include="..\SourceGenerator\SourceGenerator.csproj"
